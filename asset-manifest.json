@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-forms-steps/static/css/main.970c4cbe.chunk.css",
+    "main.js": "/homeworks-forms-steps/static/js/main.22050f4c.chunk.js",
+    "main.js.map": "/homeworks-forms-steps/static/js/main.22050f4c.chunk.js.map",
+    "runtime-main.js": "/homeworks-forms-steps/static/js/runtime-main.3a13b783.js",
+    "runtime-main.js.map": "/homeworks-forms-steps/static/js/runtime-main.3a13b783.js.map",
+    "static/js/2.e41eb234.chunk.js": "/homeworks-forms-steps/static/js/2.e41eb234.chunk.js",
+    "static/js/2.e41eb234.chunk.js.map": "/homeworks-forms-steps/static/js/2.e41eb234.chunk.js.map",
+    "static/js/3.df79a8d7.chunk.js": "/homeworks-forms-steps/static/js/3.df79a8d7.chunk.js",
+    "static/js/3.df79a8d7.chunk.js.map": "/homeworks-forms-steps/static/js/3.df79a8d7.chunk.js.map",
+    "index.html": "/homeworks-forms-steps/index.html",
+    "static/css/main.970c4cbe.chunk.css.map": "/homeworks-forms-steps/static/css/main.970c4cbe.chunk.css.map",
+    "static/js/2.e41eb234.chunk.js.LICENSE.txt": "/homeworks-forms-steps/static/js/2.e41eb234.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a13b783.js",
+    "static/js/2.e41eb234.chunk.js",
+    "static/css/main.970c4cbe.chunk.css",
+    "static/js/main.22050f4c.chunk.js"
+  ]
+}
