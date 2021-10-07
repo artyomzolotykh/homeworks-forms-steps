@@ -1,38 +1,67 @@
-.App {
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.DataForm {
+  display: flex;
+}
+
+.result {
+  padding: 10px;
+}
+
+.result-header {
+  display: flex;
+  padding: 10px;
+}
+
+.result-header-item {
+  flex: 1;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.result-body {
+  border: 1px solid #000;
+  padding: 20px 10px;
+  border-radius: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.result-body-row {
+  display: flex;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.result-body-row + .result-body-row {
+  padding-top: 10px;
+}
+
+.result-body-item {
+  flex: 1;
+  text-align: center;
+}
+
+.block {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: flex-end;
+  padding: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.input {
+  padding-top: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.input input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.submit button {
+  padding: 10px;
+  height: 37px;
+  border-radius: 5px;
+  border: 1px solid;
 }
